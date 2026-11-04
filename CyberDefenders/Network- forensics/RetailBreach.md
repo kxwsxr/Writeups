@@ -62,3 +62,6 @@ This returned a request from the attacker (111.224.180.128) to `/admin/log_viewe
 This was answered by the previous question.
 
 ### Answer: ../../../../../etc/passwd
+
+
+[Link to the lab](https://cyberdefenders.org/blueteam-ctf-challenges/retailbreach/)
